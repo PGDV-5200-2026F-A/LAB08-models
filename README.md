@@ -3,6 +3,6 @@
 ## The one with AI models and Hugging Face Datasets
 
 ### TODO
-- Fork and clone the repository
+- Open each notebook in [colab](https://colab.research.google.com/)
 - Experiment with `pipeline` and `AutoModel` methods
-- Repeat exercises from LAB07 with local models
+- Experiment with `dataset`
